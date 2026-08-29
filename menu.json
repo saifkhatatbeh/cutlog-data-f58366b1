@@ -1,0 +1,885 @@
+{
+ "MENU": [
+  [
+   [
+    "3 eggs + ¼ khubz + tomato",
+    450,
+    30,
+    [
+     [
+      "3 whole eggs",
+      225,
+      19
+     ],
+     [
+      "¼ large khubz",
+      75,
+      3
+     ],
+     [
+      "Tomato + onion",
+      30,
+      1
+     ],
+     [
+      "1 tsp olive oil",
+      40,
+      0
+     ],
+     [
+      "Tea, no sugar",
+      0,
+      0
+     ],
+     [
+      "Labneh 2 tbsp",
+      80,
+      4
+     ]
+    ],
+    "Eggs are the cheapest complete protein in Jordan. Breakfast protein blunts hunger all morning; the khubz is capped at a quarter because a full loaf alone is 300 kcal.",
+    [
+     [
+      "Eggs",
+      21,
+      2.3
+     ],
+     [
+      "Khubz",
+      2,
+      0.5
+     ],
+     [
+      "Tomatoes/onion",
+      1,
+      0.8
+     ]
+    ]
+   ],
+   [
+    "Oats 50 g + milk + 2 eggs",
+    450,
+    28,
+    [
+     [
+      "Oats 50 g",
+      190,
+      7
+     ],
+     [
+      "Milk 200 ml",
+      100,
+      7
+     ],
+     [
+      "2 whole eggs",
+      150,
+      13
+     ],
+     [
+      "Cinnamon / sweetener",
+      10,
+      0
+     ]
+    ],
+    "Slow carbs from oats keep you full until lunch. Eggs bring the protein up; oats alone would leave you hungry by 11.",
+    [
+     [
+      "Oats",
+      0.35,
+      0.7
+     ],
+     [
+      "Milk",
+      1.4,
+      1.2
+     ],
+     [
+      "Eggs",
+      14,
+      1.5
+     ]
+    ]
+   ],
+   [
+    "Shakshuka (3 eggs) + ¼ khubz",
+    450,
+    26,
+    [
+     [
+      "3 eggs",
+      225,
+      19
+     ],
+     [
+      "Tomato sauce + pepper + onion",
+      80,
+      3
+     ],
+     [
+      "1 tsp olive oil",
+      40,
+      0
+     ],
+     [
+      "¼ khubz",
+      75,
+      3
+     ],
+     [
+      "Labneh 1 tbsp",
+      30,
+      1
+     ]
+    ],
+    "Same macros as plain eggs, different taste. Vegetables add volume for almost no calories.",
+    [
+     [
+      "Eggs",
+      21,
+      2.3
+     ],
+     [
+      "Tomatoes/pepper/onion",
+      2,
+      1.5
+     ],
+     [
+      "Khubz",
+      2,
+      0.5
+     ]
+    ]
+   ],
+   [
+    "Labneh + 2 eggs + cucumber + ¼ khubz",
+    440,
+    27,
+    [
+     [
+      "Labneh 150 g",
+      240,
+      12
+     ],
+     [
+      "2 eggs",
+      150,
+      13
+     ],
+     [
+      "Cucumber",
+      15,
+      1
+     ],
+     [
+      "¼ khubz",
+      75,
+      3
+     ]
+    ],
+    "A classic Jordanian breakfast kept honest: labneh is measured, not spooned; bread is a quarter.",
+    [
+     [
+      "Labneh",
+      1,
+      2
+     ],
+     [
+      "Eggs",
+      14,
+      1.5
+     ],
+     [
+      "Cucumber",
+      1,
+      0.5
+     ],
+     [
+      "Khubz",
+      2,
+      0.5
+     ]
+    ]
+   ]
+  ],
+  [
+   [
+    "Chicken 200 g + rice + salad",
+    600,
+    55,
+    [
+     [
+      "Chicken breast 200 g (cooked)",
+      330,
+      62
+     ],
+     [
+      "Rice 1 cup cooked",
+      200,
+      4
+     ],
+     [
+      "Salad + lemon",
+      40,
+      2
+     ],
+     [
+      "1 tsp olive oil",
+      40,
+      0
+     ]
+    ],
+    "Your biggest protein hit of the day, around midday when you need energy for work and the gym. Rice is your main carb because you train in the afternoon.",
+    [
+     [
+      "Chicken breast",
+      1.5,
+      6.5
+     ],
+     [
+      "Rice",
+      0.7,
+      0.8
+     ],
+     [
+      "Cucumber/tomato/lettuce",
+      2,
+      1.5
+     ],
+     [
+      "Lemons",
+      0.3,
+      0.3
+     ]
+    ]
+   ],
+   [
+    "Chicken 200 g + 2 potatoes + veg",
+    600,
+    55,
+    [
+     [
+      "Chicken breast 200 g",
+      330,
+      62
+     ],
+     [
+      "2 medium potatoes",
+      260,
+      6
+     ],
+     [
+      "Mixed veg",
+      40,
+      2
+     ]
+    ],
+    "Potatoes are the most filling carb per calorie that exists. Same chicken, more fullness.",
+    [
+     [
+      "Chicken breast",
+      1.5,
+      6.5
+     ],
+     [
+      "Potatoes",
+      1.5,
+      0.8
+     ],
+     [
+      "Frozen mixed veg",
+      0.5,
+      1
+     ]
+    ]
+   ],
+   [
+    "Mujaddara + chicken 150 g",
+    600,
+    52,
+    [
+     [
+      "Mujaddara 1.5 cups (lentils + rice + onion)",
+      350,
+      14
+     ],
+     [
+      "Chicken breast 150 g",
+      250,
+      46
+     ],
+     [
+      "Yogurt 100 g",
+      60,
+      5
+     ]
+    ],
+    "Lentils add fibre and cut the cost: this is the cheapest lunch on the plan at the same protein.",
+    [
+     [
+      "Lentils",
+      0.5,
+      0.8
+     ],
+     [
+      "Rice",
+      0.5,
+      0.6
+     ],
+     [
+      "Chicken breast",
+      1,
+      4.5
+     ],
+     [
+      "Onions",
+      0.5,
+      0.3
+     ]
+    ]
+   ],
+   [
+    "Shish tawook 200 g + ½ khubz + salad",
+    620,
+    56,
+    [
+     [
+      "Chicken tawook 200 g",
+      340,
+      60
+     ],
+     [
+      "½ khubz",
+      150,
+      5
+     ],
+     [
+      "Salad + garlic (toum 1 tsp)",
+      70,
+      2
+     ],
+     [
+      "Pickles",
+      10,
+      0
+     ]
+    ],
+    "The 'I'm bored' lunch. Marinated chicken is still chicken; half a khubz replaces the rice. Skip the fries.",
+    [
+     [
+      "Chicken breast",
+      1.5,
+      6.5
+     ],
+     [
+      "Khubz",
+      2,
+      0.5
+     ],
+     [
+      "Garlic/yogurt marinade",
+      0.2,
+      0.5
+     ]
+    ]
+   ]
+  ],
+  [
+   [
+    "Banana + labneh 200 g",
+    250,
+    15,
+    [
+     [
+      "Banana",
+      105,
+      1
+     ],
+     [
+      "Labneh 200 g",
+      160,
+      8
+     ]
+    ],
+    "Fast carbs 60–90 min before training so the session feels strong; a little protein so you're not empty during it.",
+    [
+     [
+      "Bananas",
+      1,
+      1
+     ],
+     [
+      "Labneh",
+      1,
+      2
+     ]
+    ]
+   ],
+   [
+    "Apple + 2 boiled eggs",
+    250,
+    14,
+    [
+     [
+      "Apple",
+      95,
+      0
+     ],
+     [
+      "2 boiled eggs",
+      150,
+      13
+     ]
+    ],
+    "Portable. Boil eggs on Saturday and this is a zero-effort snack at work.",
+    [
+     [
+      "Apples",
+      1,
+      1.2
+     ],
+     [
+      "Eggs",
+      10,
+      1.1
+     ]
+    ]
+   ],
+   [
+    "Labneh + cucumber + ½ khubz",
+    250,
+    14,
+    [
+     [
+      "Labneh 100 g",
+      160,
+      8
+     ],
+     [
+      "½ small khubz",
+      80,
+      3
+     ],
+     [
+      "Cucumber",
+      15,
+      1
+     ]
+    ],
+    "Same macros as banana + labneh with more chew. Good when you want savoury.",
+    [
+     [
+      "Labneh",
+      0.7,
+      1.4
+     ],
+     [
+      "Khubz",
+      1,
+      0.3
+     ],
+     [
+      "Cucumber",
+      0.5,
+      0.3
+     ]
+    ]
+   ],
+   [
+    "Yogurt 200 g + 2 dates",
+    230,
+    11,
+    [
+     [
+      "Yogurt 200 g",
+      120,
+      10
+     ],
+     [
+      "2 dates",
+      110,
+      1
+     ]
+    ],
+    "Dates are pre-workout fuel, not a snack: 55 kcal each, so the count is fixed at two.",
+    [
+     [
+      "Yogurt",
+      1.4,
+      1.5
+     ],
+     [
+      "Dates",
+      0.2,
+      1
+     ]
+    ]
+   ]
+  ],
+  [
+   [
+    "Lentil soup + tuna can",
+    500,
+    45,
+    [
+     [
+      "Lentil soup 1.5 cups",
+      230,
+      18
+     ],
+     [
+      "Tuna can in water",
+      120,
+      26
+     ],
+     [
+      "Lemon + cumin",
+      5,
+      0
+     ],
+     [
+      "1 tsp olive oil",
+      40,
+      0
+     ],
+     [
+      "Small salad",
+      30,
+      1
+     ],
+     [
+      "¼ khubz (optional)",
+      75,
+      3
+     ]
+    ],
+    "Evening is when most diets die. Soup is high volume and slow to eat; tuna makes it a real protein meal.",
+    [
+     [
+      "Lentils",
+      0.5,
+      0.8
+     ],
+     [
+      "Tuna cans",
+      4,
+      3.5
+     ],
+     [
+      "Lemons",
+      0.3,
+      0.3
+     ],
+     [
+      "Salad veg",
+      1,
+      0.8
+     ]
+    ]
+   ],
+   [
+    "Chickpea & tuna salad",
+    500,
+    45,
+    [
+     [
+      "Chickpeas 1 cup",
+      270,
+      15
+     ],
+     [
+      "Tuna can",
+      120,
+      26
+     ],
+     [
+      "Tomato, cucumber, onion, parsley",
+      40,
+      2
+     ],
+     [
+      "1 tsp olive oil + lemon",
+      45,
+      0
+     ]
+    ],
+    "No cooking. Fibre from chickpeas keeps you full to bedtime.",
+    [
+     [
+      "Chickpeas (dry)",
+      0.5,
+      0.8
+     ],
+     [
+      "Tuna cans",
+      4,
+      3.5
+     ],
+     [
+      "Salad veg + parsley",
+      1,
+      1
+     ]
+    ]
+   ],
+   [
+    "Chicken 150 g stir-fry + rice",
+    500,
+    48,
+    [
+     [
+      "Chicken breast 150 g",
+      250,
+      46
+     ],
+     [
+      "Frozen mixed veg 200 g",
+      70,
+      3
+     ],
+     [
+      "Rice ¾ cup",
+      150,
+      3
+     ],
+     [
+      "Soy / spices, 1 tsp oil",
+      40,
+      0
+     ]
+    ],
+    "Uses the Saturday batch-cooked chicken. 10 minutes, one pan.",
+    [
+     [
+      "Chicken breast",
+      1,
+      4.5
+     ],
+     [
+      "Frozen mixed veg",
+      1,
+      1.5
+     ],
+     [
+      "Rice",
+      0.4,
+      0.5
+     ]
+    ]
+   ],
+   [
+    "Foul (fava) + 2 eggs + salad",
+    500,
+    38,
+    [
+     [
+      "Foul 1.5 cups",
+      300,
+      20
+     ],
+     [
+      "2 eggs",
+      150,
+      13
+     ],
+     [
+      "Salad, lemon, 1 tsp oil",
+      50,
+      1
+     ]
+    ],
+    "Jordanian comfort food that happens to be high-fibre and cheap. Protein is a bit lower, so pair it with the bedtime yogurt.",
+    [
+     [
+      "Foul (canned/dry)",
+      1,
+      1.2
+     ],
+     [
+      "Eggs",
+      14,
+      1.5
+     ],
+     [
+      "Salad veg",
+      1,
+      0.8
+     ]
+    ]
+   ]
+  ],
+  [
+   [
+    "Yogurt 200 g + fruit",
+    200,
+    20,
+    [
+     [
+      "Yogurt 200 g (or labneh)",
+      120,
+      10
+     ],
+     [
+      "Whey ½ scoop or 2 egg whites",
+      60,
+      10
+     ],
+     [
+      "Fruit (small)",
+      40,
+      0
+     ]
+    ],
+    "Slow protein before sleep supports muscle repair overnight and kills the late-night snack urge.",
+    [
+     [
+      "Yogurt",
+      1.4,
+      1.5
+     ],
+     [
+      "Seasonal fruit",
+      0.7,
+      1
+     ]
+    ]
+   ],
+   [
+    "3 egg whites + banana",
+    200,
+    15,
+    [
+     [
+      "3 egg whites",
+      50,
+      11
+     ],
+     [
+      "Banana",
+      105,
+      1
+     ],
+     [
+      "Cinnamon",
+      0,
+      0
+     ]
+    ],
+    "Egg whites are almost pure protein. Cheap and fast.",
+    [
+     [
+      "Eggs",
+      21,
+      2.3
+     ],
+     [
+      "Bananas",
+      0.7,
+      0.7
+     ]
+    ]
+   ],
+   [
+    "Yogurt + oats 30 g",
+    200,
+    18,
+    [
+     [
+      "Yogurt 150 g",
+      90,
+      8
+     ],
+     [
+      "Oats 30 g",
+      110,
+      4
+     ],
+     [
+      "Whey ¼ scoop",
+      30,
+      6
+     ]
+    ],
+    "Overnight-oats style: make it after dinner, eat it at 10 pm.",
+    [
+     [
+      "Yogurt",
+      1,
+      1.2
+     ],
+     [
+      "Oats",
+      0.2,
+      0.4
+     ]
+    ]
+   ],
+   [
+    "Labneh 150 g + cucumber",
+    200,
+    14,
+    [
+     [
+      "Labneh 150 g",
+      180,
+      12
+     ],
+     [
+      "Cucumber",
+      15,
+      1
+     ]
+    ],
+    "Savoury option for nights when sweet sounds wrong.",
+    [
+     [
+      "Labneh",
+      1,
+      2
+     ],
+     [
+      "Cucumber",
+      0.5,
+      0.3
+     ]
+    ]
+   ]
+  ]
+ ],
+ "WEEKS": [
+  [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  [
+   2,
+   2,
+   2,
+   2,
+   2
+  ],
+  [
+   3,
+   3,
+   3,
+   3,
+   3
+  ]
+ ],
+ "WKNAME": [
+  "Week A",
+  "Week B",
+  "Week C",
+  "Week D"
+ ]
+}
